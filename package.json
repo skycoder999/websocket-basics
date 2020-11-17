@@ -1,0 +1,26 @@
+{
+  "name": "websocket-basics",
+  "version": "1.0.0",
+  "description": "wesocket basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skycoder999/websocket-basics.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "Amreen Sultan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skycoder999/websocket-basics/issues"
+  },
+  "homepage": "https://github.com/skycoder999/websocket-basics#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "websocket": "^1.0.32"
+  }
+}
